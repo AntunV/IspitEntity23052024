@@ -1,0 +1,209 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vajdi\\Desktop\\EF_CodeFirstIsipitAntunVajdic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{585FFB3E-AD3D-4A94-A82C-4B636D970D6A}|EF_CodeFirstIsipitAntunVajdic\\EF_CodeFirstIsipitAntunVajdic.csproj|c:\\users\\vajdi\\desktop\\ef_codefirstisipitantunvajdic\\ef_codefirstisipitantunvajdic\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{585FFB3E-AD3D-4A94-A82C-4B636D970D6A}|EF_CodeFirstIsipitAntunVajdic\\EF_CodeFirstIsipitAntunVajdic.csproj|solutionrelative:ef_codefirstisipitantunvajdic\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{585FFB3E-AD3D-4A94-A82C-4B636D970D6A}|EF_CodeFirstIsipitAntunVajdic\\EF_CodeFirstIsipitAntunVajdic.csproj|c:\\users\\vajdi\\desktop\\ef_codefirstisipitantunvajdic\\ef_codefirstisipitantunvajdic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{585FFB3E-AD3D-4A94-A82C-4B636D970D6A}|EF_CodeFirstIsipitAntunVajdic\\EF_CodeFirstIsipitAntunVajdic.csproj|solutionrelative:ef_codefirstisipitantunvajdic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{585FFB3E-AD3D-4A94-A82C-4B636D970D6A}|EF_CodeFirstIsipitAntunVajdic\\EF_CodeFirstIsipitAntunVajdic.csproj|c:\\users\\vajdi\\desktop\\ef_codefirstisipitantunvajdic\\ef_codefirstisipitantunvajdic\\migrations\\20240523175617_myseedmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{585FFB3E-AD3D-4A94-A82C-4B636D970D6A}|EF_CodeFirstIsipitAntunVajdic\\EF_CodeFirstIsipitAntunVajdic.csproj|solutionrelative:ef_codefirstisipitantunvajdic\\migrations\\20240523175617_myseedmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{585FFB3E-AD3D-4A94-A82C-4B636D970D6A}|EF_CodeFirstIsipitAntunVajdic\\EF_CodeFirstIsipitAntunVajdic.csproj|c:\\users\\vajdi\\desktop\\ef_codefirstisipitantunvajdic\\ef_codefirstisipitantunvajdic\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{585FFB3E-AD3D-4A94-A82C-4B636D970D6A}|EF_CodeFirstIsipitAntunVajdic\\EF_CodeFirstIsipitAntunVajdic.csproj|solutionrelative:ef_codefirstisipitantunvajdic\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{585FFB3E-AD3D-4A94-A82C-4B636D970D6A}|EF_CodeFirstIsipitAntunVajdic\\EF_CodeFirstIsipitAntunVajdic.csproj|c:\\users\\vajdi\\desktop\\ef_codefirstisipitantunvajdic\\ef_codefirstisipitantunvajdic\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{585FFB3E-AD3D-4A94-A82C-4B636D970D6A}|EF_CodeFirstIsipitAntunVajdic\\EF_CodeFirstIsipitAntunVajdic.csproj|solutionrelative:ef_codefirstisipitantunvajdic\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{585FFB3E-AD3D-4A94-A82C-4B636D970D6A}|EF_CodeFirstIsipitAntunVajdic\\EF_CodeFirstIsipitAntunVajdic.csproj|c:\\users\\vajdi\\desktop\\ef_codefirstisipitantunvajdic\\ef_codefirstisipitantunvajdic\\models\\base\\gradebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{585FFB3E-AD3D-4A94-A82C-4B636D970D6A}|EF_CodeFirstIsipitAntunVajdic\\EF_CodeFirstIsipitAntunVajdic.csproj|solutionrelative:ef_codefirstisipitantunvajdic\\models\\base\\gradebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{585FFB3E-AD3D-4A94-A82C-4B636D970D6A}|EF_CodeFirstIsipitAntunVajdic\\EF_CodeFirstIsipitAntunVajdic.csproj|c:\\users\\vajdi\\desktop\\ef_codefirstisipitantunvajdic\\ef_codefirstisipitantunvajdic\\models\\dbo\\common\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{585FFB3E-AD3D-4A94-A82C-4B636D970D6A}|EF_CodeFirstIsipitAntunVajdic\\EF_CodeFirstIsipitAntunVajdic.csproj|solutionrelative:ef_codefirstisipitantunvajdic\\models\\dbo\\common\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{585FFB3E-AD3D-4A94-A82C-4B636D970D6A}|EF_CodeFirstIsipitAntunVajdic\\EF_CodeFirstIsipitAntunVajdic.csproj|c:\\users\\vajdi\\desktop\\ef_codefirstisipitantunvajdic\\ef_codefirstisipitantunvajdic\\models\\dbo\\common\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{585FFB3E-AD3D-4A94-A82C-4B636D970D6A}|EF_CodeFirstIsipitAntunVajdic\\EF_CodeFirstIsipitAntunVajdic.csproj|solutionrelative:ef_codefirstisipitantunvajdic\\models\\dbo\\common\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{585FFB3E-AD3D-4A94-A82C-4B636D970D6A}|EF_CodeFirstIsipitAntunVajdic\\EF_CodeFirstIsipitAntunVajdic.csproj|c:\\users\\vajdi\\desktop\\ef_codefirstisipitantunvajdic\\ef_codefirstisipitantunvajdic\\models\\base\\studentbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{585FFB3E-AD3D-4A94-A82C-4B636D970D6A}|EF_CodeFirstIsipitAntunVajdic\\EF_CodeFirstIsipitAntunVajdic.csproj|solutionrelative:ef_codefirstisipitantunvajdic\\models\\base\\studentbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 217,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\vajdi\\Desktop\\EF_CodeFirstIsipitAntunVajdic\\EF_CodeFirstIsipitAntunVajdic\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "EF_CodeFirstIsipitAntunVajdic\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\vajdi\\Desktop\\EF_CodeFirstIsipitAntunVajdic\\EF_CodeFirstIsipitAntunVajdic\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "EF_CodeFirstIsipitAntunVajdic\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T17:58:05.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240523175617_MySeedMigration.cs",
+              "DocumentMoniker": "C:\\Users\\vajdi\\Desktop\\EF_CodeFirstIsipitAntunVajdic\\EF_CodeFirstIsipitAntunVajdic\\Migrations\\20240523175617_MySeedMigration.cs",
+              "RelativeDocumentMoniker": "EF_CodeFirstIsipitAntunVajdic\\Migrations\\20240523175617_MySeedMigration.cs",
+              "ToolTip": "C:\\Users\\vajdi\\Desktop\\EF_CodeFirstIsipitAntunVajdic\\EF_CodeFirstIsipitAntunVajdic\\Migrations\\20240523175617_MySeedMigration.cs",
+              "RelativeToolTip": "EF_CodeFirstIsipitAntunVajdic\\Migrations\\20240523175617_MySeedMigration.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T17:56:17.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vajdi\\Desktop\\EF_CodeFirstIsipitAntunVajdic\\EF_CodeFirstIsipitAntunVajdic\\Program.cs",
+              "RelativeDocumentMoniker": "EF_CodeFirstIsipitAntunVajdic\\Program.cs",
+              "ToolTip": "C:\\Users\\vajdi\\Desktop\\EF_CodeFirstIsipitAntunVajdic\\EF_CodeFirstIsipitAntunVajdic\\Program.cs",
+              "RelativeToolTip": "EF_CodeFirstIsipitAntunVajdic\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T16:43:17.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "C:\\Users\\vajdi\\Desktop\\EF_CodeFirstIsipitAntunVajdic\\EF_CodeFirstIsipitAntunVajdic\\Models\\Dbo\\Common\\Grade.cs",
+              "RelativeDocumentMoniker": "EF_CodeFirstIsipitAntunVajdic\\Models\\Dbo\\Common\\Grade.cs",
+              "ToolTip": "C:\\Users\\vajdi\\Desktop\\EF_CodeFirstIsipitAntunVajdic\\EF_CodeFirstIsipitAntunVajdic\\Models\\Dbo\\Common\\Grade.cs",
+              "RelativeToolTip": "EF_CodeFirstIsipitAntunVajdic\\Models\\Dbo\\Common\\Grade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T16:35:57.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\vajdi\\Desktop\\EF_CodeFirstIsipitAntunVajdic\\EF_CodeFirstIsipitAntunVajdic\\Models\\Dbo\\Common\\Student.cs",
+              "RelativeDocumentMoniker": "EF_CodeFirstIsipitAntunVajdic\\Models\\Dbo\\Common\\Student.cs",
+              "ToolTip": "C:\\Users\\vajdi\\Desktop\\EF_CodeFirstIsipitAntunVajdic\\EF_CodeFirstIsipitAntunVajdic\\Models\\Dbo\\Common\\Student.cs",
+              "RelativeToolTip": "EF_CodeFirstIsipitAntunVajdic\\Models\\Dbo\\Common\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T16:35:44.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GradeBase.cs",
+              "DocumentMoniker": "C:\\Users\\vajdi\\Desktop\\EF_CodeFirstIsipitAntunVajdic\\EF_CodeFirstIsipitAntunVajdic\\Models\\Base\\GradeBase.cs",
+              "RelativeDocumentMoniker": "EF_CodeFirstIsipitAntunVajdic\\Models\\Base\\GradeBase.cs",
+              "ToolTip": "C:\\Users\\vajdi\\Desktop\\EF_CodeFirstIsipitAntunVajdic\\EF_CodeFirstIsipitAntunVajdic\\Models\\Base\\GradeBase.cs",
+              "RelativeToolTip": "EF_CodeFirstIsipitAntunVajdic\\Models\\Base\\GradeBase.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T16:22:29.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentBase.cs",
+              "DocumentMoniker": "C:\\Users\\vajdi\\Desktop\\EF_CodeFirstIsipitAntunVajdic\\EF_CodeFirstIsipitAntunVajdic\\Models\\Base\\StudentBase.cs",
+              "RelativeDocumentMoniker": "EF_CodeFirstIsipitAntunVajdic\\Models\\Base\\StudentBase.cs",
+              "ToolTip": "C:\\Users\\vajdi\\Desktop\\EF_CodeFirstIsipitAntunVajdic\\EF_CodeFirstIsipitAntunVajdic\\Models\\Base\\StudentBase.cs",
+              "RelativeToolTip": "EF_CodeFirstIsipitAntunVajdic\\Models\\Base\\StudentBase.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowBIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T16:19:33.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\vajdi\\Desktop\\EF_CodeFirstIsipitAntunVajdic\\EF_CodeFirstIsipitAntunVajdic\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EF_CodeFirstIsipitAntunVajdic\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\vajdi\\Desktop\\EF_CodeFirstIsipitAntunVajdic\\EF_CodeFirstIsipitAntunVajdic\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EF_CodeFirstIsipitAntunVajdic\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T16:17:24.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vajdi\\Desktop\\EF_CodeFirstIsipitAntunVajdic\\EF_CodeFirstIsipitAntunVajdic\\appsettings.json",
+              "RelativeDocumentMoniker": "EF_CodeFirstIsipitAntunVajdic\\appsettings.json",
+              "ToolTip": "C:\\Users\\vajdi\\Desktop\\EF_CodeFirstIsipitAntunVajdic\\EF_CodeFirstIsipitAntunVajdic\\appsettings.json",
+              "RelativeToolTip": "EF_CodeFirstIsipitAntunVajdic\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-23T16:13:42.229Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
